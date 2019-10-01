@@ -1,10 +1,10 @@
 # infile = open('input.txt', 'r', encoding='utf8')
 # outfile = open('output.txt', 'w', encoding='utf8')
 
-# data = inFile.readlines()
+# data = infile.readlines()
 
-# for i in scores:
-#     row = list(i.split())
+# for row in data:
+#     a = list(row.split())
 
 # infile.close()
 # outfile.close()
