@@ -9,7 +9,15 @@
 # infile.close()
 # outfile.close()
 
+
+def ByName(student):
+    return student[0]
+
+  
 a = [('Alex', 9), ('Anna', 7), ('Max', 9), ('Kira', 10)]
+
+a.sort(key=ByName)
+print(*a)
 
 a.sort(key=lambda x: x[1])
 print(*a)
