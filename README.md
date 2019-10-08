@@ -1,7 +1,5 @@
 ```python
 print ("Hello World")
-def f(x):
-  return x ** 2
 ```
 ### Content
 
