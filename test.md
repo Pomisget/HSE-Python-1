@@ -9,3 +9,4 @@ print(*capitals) # Russia USA
 print(capitals)  # {'Russia': 'Moscow', 'USA': 'Washington'}
 
 ```
+{'Russia': 'Moscow', 'USA': 'Washington'}
