@@ -1,2 +1,2 @@
 ## OPEN IN COLAB
-[ guidelines for  project](https://nbviewer.jupyter.org/github/doroteo7/HSE-Python-1/blob/master/Lecture_1.ipynb)
+[ guidelines for  project](https://drive.google.com/file/d/1tC1CX7z6CN3Ie_9XKo6Hviuy_zXod0cN/view?usp=sharing)
