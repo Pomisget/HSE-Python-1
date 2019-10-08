@@ -1,4 +1,4 @@
 ### Content
 
-* Lecture 1: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tC1CX7z6CN3Ie_9XKo6Hviuy_zXod0cN#scrollTo=a8o-3OidjX0D)
+* Lecture 1: [open](https://nbviewer.jupyter.org/github/doroteo7/HSE-Python-1/blob/master/Lecture_2_string.ipynb)
 
