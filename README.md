@@ -8,4 +8,8 @@
 * Lecture 7 (Set): [open](https://nbviewer.jupyter.org/github/doroteo7/HSE-Python-1/blob/master/Lecture_7_set.ipynb)
 * Lecture 8 (Dictionary): [open](https://nbviewer.jupyter.org/github/doroteo7/HSE-Python-1/blob/master/Lecture_8_dictionary.ipynb)
 
+```python
+print "Hello World"
+```
+
 
