@@ -4,7 +4,7 @@ print ("Hello World")
 
 capitals = dict()
 capitals = {'Russia' : 'Moscow', 'USA'   : 'Washington'}
-print(*capitals)
-print(capitals)
+print(*capitals) # Russia USA
+print(capitals)  # {'Russia': 'Moscow', 'USA': 'Washington'}
 
 ```
