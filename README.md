@@ -1,6 +1,6 @@
 ### Content
 
-* Lecture 1 (Intro): [open](https://nbviewer.jupyter.org/github/doroteo7/HSE-Python-1/blob/master/Lecture_2_string.ipynb)
+* Lecture 1 (Intro): [open](https://nbviewer.jupyter.org/github/doroteo7/HSE-Python-1/blob/master/Lecture_1_intro.ipynb)
 * Lecture 2 (String): [open](https://nbviewer.jupyter.org/github/doroteo7/HSE-Python-1/blob/master/Lecture_2_string.ipynb)
 * Lecture 3 (Function): [open](https://nbviewer.jupyter.org/github/doroteo7/HSE-Python-1/blob/master/Lecture_3_functions.ipynb)
 * Lecture 4 (List and Tuples): [open](https://nbviewer.jupyter.org/github/doroteo7/HSE-Python-1/blob/master/Lecture_4_list_tuple.ipynb)
