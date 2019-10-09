@@ -11,13 +11,6 @@ __Python__ — высокоуровневый язык программиров�
 Также Python снабжен богатой стандартной библиотекой, позволяющей решить большинство задач, встречающихся на пути пользователя
 ```python
 print ("Hello World")
-# comment
-
-capitals = dict()
-capitals = {'Russia' : 'Moscow', 'USA'   : 'Washington'}
-print(*capitals) # Russia USA
-print(capitals)  # {'Russia': 'Moscow', 'USA': 'Washington'}
-
 ```
 {'Russia': 'Moscow', 'USA': 'Washington'}
 
