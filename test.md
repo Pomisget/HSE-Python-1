@@ -156,6 +156,7 @@ print(a, b, c, d, sep=' Yolo ') # 56 Yolo Shaker shaker! Yolo True Yolo None
  ```python
 # Элементы в фигурных скобках заменяются на соответствующие аргументы
 # В функцию форматирования можно передавать значения любых типов
-print("{number} груш по цене {cost}$".format(number=7, cost=5.6)) # {7 груш по цене 5.6$
+print("{number} груш по цене {cost}$".format(number=7, cost=5.6)) 
+# {7 груш по цене 5.6$
  ```
 
