@@ -154,9 +154,8 @@ print(a, b, c, d, sep=' Yolo ') # 56 Yolo Shaker shaker! Yolo True Yolo None
 * Также можно использовать форматирование для более удобного вывода
 
  ```python
-print("{0} + {1} = {2}".format(5, 4, 9)) 
 # Элементы в фигурных скобках заменяются на соответствующие аргументы
-print("{number} груш {varieties} по цене {cost}$".format(number=7, varieties="Дюшес", cost=5.6))
 # В функцию форматирования можно передавать значения любых типов
+print("{number} груш по цене {cost}$".format(number=7, cost=5.6)) # {7 груш по цене 5.6$
  ```
 
