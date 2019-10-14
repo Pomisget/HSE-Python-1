@@ -9,6 +9,11 @@
 9. - [x] [Множество - Set](https://github.com/doroteo7/HSE-Python-1/blob/master/notes/9.md)
 10. - [x] [Словарь - Dictionary](https://github.com/doroteo7/HSE-Python-1/blob/master/notes/10.md)
 
+#### 2d List
+```python
+b = [[0 for j in range(3)] for i in range(3)]
+```
+
 #### Чтение файла построчно в Python
 
 ```python
