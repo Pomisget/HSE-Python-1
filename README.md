@@ -1,7 +1,6 @@
 ```python
 print ("Hello World")
 ```
-### Content
 
 * [1. Intro](https://github.com/doroteo7/HSE-Python-1/blob/master/1.md)
 * [2. Условный оператор](https://github.com/doroteo7/HSE-Python-1/blob/master/2.md)
