@@ -1,5 +1,12 @@
 ```python
-print ("Hello World")
+infile = open('input.txt')
+
+data = infile.readlines()
+
+for row in data:
+    a = list(row.split())
+
+infile.close()
 ```
 
 1. - [x] [Intro](https://github.com/doroteo7/HSE-Python-1/blob/master/1.md)
