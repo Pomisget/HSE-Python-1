@@ -9,7 +9,7 @@
 9. - [x] [Множество - Set](https://github.com/doroteo7/HSE-Python-1/blob/master/9.md)
 10. - [x] [Словарь - Dictionary](https://github.com/doroteo7/HSE-Python-1/blob/master/10.md)
 
-### Чтение файла построчно в Python
+#### Чтение файла построчно в Python
 
 ```python
 infile = open('input.txt')
