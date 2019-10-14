@@ -1,7 +1,7 @@
 1. - [x] [Intro](https://github.com/doroteo7/HSE-Python-1/blob/master/notes/1.md)
 2. - [x] [Условный оператор](https://github.com/doroteo7/HSE-Python-1/blob/master/notes/2.md)
 3. - [x] [Цикл While](https://github.com/doroteo7/HSE-Python-1/blob/master/notes/3.md)
-4. - [x] [Цикл While](https://github.com/doroteo7/HSE-Python-1/blob/master/notes/4.md)
+4. - [x] [Строки](https://github.com/doroteo7/HSE-Python-1/blob/master/notes/4.md)
 5. - [x] [Функция](https://github.com/doroteo7/HSE-Python-1/blob/master/notes/5.md)
 6. - [x] [Цикл for](https://github.com/doroteo7/HSE-Python-1/blob/master/notes/6.md)
 7. - [x] [Списки - List](https://github.com/doroteo7/HSE-Python-1/blob/master/notes/7.md)
