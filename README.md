@@ -14,9 +14,14 @@
 ```python
 print("+".join(["a", "b", "c"])) # a+b+c
 ```
+
+#### 1d List
+```python
+a = [0 for i in range(9)]
+```
 #### 2d List
 ```python
-b = [[0 for j in range(3)] for i in range(3)]
+a = [[0 for j in range(3)] for i in range(3)]
 ```
 
 #### Чтение файла построчно в Python
