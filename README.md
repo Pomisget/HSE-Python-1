@@ -1,4 +1,4 @@
-1. - [x] [Intro](https://github.com/doroteo7/HSE-Python-1/blob/master/1.md)
+1. - [x] [Intro](https://github.com/doroteo7/HSE-Python-1/blob/master/notes/1.md)
 2. - [x] [Условный оператор](https://github.com/doroteo7/HSE-Python-1/blob/master/2.md)
 3. - [x] [Цикл While](https://github.com/doroteo7/HSE-Python-1/blob/master/3.md)
 4. - [x] [Цикл While](https://github.com/doroteo7/HSE-Python-1/blob/master/4.md)
