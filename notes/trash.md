@@ -1,3 +1,4 @@
+```python
 file = open('input.txt')
 
 votes = dict()
@@ -40,3 +41,5 @@ a.sort(key=lambda x: x[3])
 
 for i in range(len(a)):
     print(a[i][0], a[i][1])
+
+```
