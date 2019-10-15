@@ -1,5 +1,6 @@
 ### Quiz 2 :thought_balloon:
 
+* B. Ханойские башни [Solution](https://www.youtube.com/watch?v=rFuQCd4RvI0)
 <p align="center">
   <img width="400" height="200" src="http://alexandrsoldatkin.com/c-hanoi-tower/images/towershanoi.jpg">
 </p>
