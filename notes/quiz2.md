@@ -1,5 +1,21 @@
 ### Quiz 2 :thought_balloon:
 
+
+* __A. Голосование__
+
+```python
+# (0 + 0 + 0) // 2 = 0
+# (0 + 0 + 1) // 2 = 0
+# (0 + 1 + 1) // 2 = 1
+# (1 + 1 + 1) // 2 = 1
+
+def Election(x, y, z):
+    return (x + y + z) // 2
+
+a = list(map(int, input().split()))
+print(Election(a[0], a[1], a[2]))
+
+```
 * __B. Ханойские башни__ [Solution](https://www.youtube.com/watch?v=rFuQCd4RvI0)
 <p align="center">
   <img width="400" height="200" src="http://alexandrsoldatkin.com/c-hanoi-tower/images/towershanoi.jpg">
