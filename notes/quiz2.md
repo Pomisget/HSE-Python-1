@@ -46,7 +46,27 @@ for i in range(m1, m2 + 1):
         print(str(i) + ' x ' + str(j) + ' = ' + str(i * j))
     print()
 ```
+* __E. Треугольники__
+```python
+n = int(input())
+a = list(map(int, input().split()))
 
+
+def isOK(a, b, c):
+    if a + b > c and a + c > b and b + c > a:
+        return True
+    return False
+
+
+ans = 0
+for i in range(n - 2):
+    for j in range(i + 1, n - 1):
+        for k in range(j + 1, n):
+            if isOK(a[i], a[j], a[k]):
+                ans += 1
+
+print(ans)
+```
 * __B. Ханойские башни__ [Solution](https://www.youtube.com/watch?v=rFuQCd4RvI0)
 <p align="center">
   <img width="400" height="200" src="http://alexandrsoldatkin.com/c-hanoi-tower/images/towershanoi.jpg">
