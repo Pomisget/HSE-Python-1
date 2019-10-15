@@ -8,6 +8,9 @@
 8. - [x] [Сортировка](https://github.com/doroteo7/HSE-Python-1/blob/master/notes/8.md)
 9. - [x] [Множество - Set](https://github.com/doroteo7/HSE-Python-1/blob/master/notes/9.md)
 10. - [x] [Словарь - Dictionary](https://github.com/doroteo7/HSE-Python-1/blob/master/notes/10.md)
+11. - [] [Функциональное программирование](https://github.com/doroteo7/HSE-Python-1/blob/master/notes/11.md)
+
+
 
 
 #### join
