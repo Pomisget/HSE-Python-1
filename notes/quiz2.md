@@ -1,6 +1,6 @@
 ### Quiz 2 :thought_balloon:
 
-[](http://alexandrsoldatkin.com/c-hanoi-tower/images/towershanoi.jpg)
+![Image of Yaktocat](http://alexandrsoldatkin.com/c-hanoi-tower/images/towershanoi.jpg)
 
 ```python
 def move(n, a, b):
