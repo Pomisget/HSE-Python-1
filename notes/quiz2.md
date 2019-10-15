@@ -36,6 +36,16 @@ print('+'.join(a) + '=' + str(c))
 
 
  ```
+* __D. Таблица умножения - 2__
+```python
+m1, m2 = list(map(int, input().split()))
+n1, n2 = list(map(int, input().split()))
+
+for i in range(m1, m2 + 1):
+    for j in range(n1, n2 + 1):
+        print(str(i) + ' x ' + str(j) + ' = ' + str(i * j))
+    print()
+```
 
 * __B. Ханойские башни__ [Solution](https://www.youtube.com/watch?v=rFuQCd4RvI0)
 <p align="center">
