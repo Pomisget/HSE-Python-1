@@ -16,6 +16,27 @@ a = list(map(int, input().split()))
 print(Election(a[0], a[1], a[2]))
 
 ```
+
+* __C. Сумма произведений соседних чисел__
+
+```python
+# n = 4
+# 1*2+2*3+3*4=20
+
+n = int(input())
+
+c = 0
+a = []
+
+for i in range(1, n):
+    c += i * (i + 1)
+    a.append(str(i) + '*' + str(i + 1))
+
+print('+'.join(a) + '=' + str(c))
+
+
+ ```
+
 * __B. Ханойские башни__ [Solution](https://www.youtube.com/watch?v=rFuQCd4RvI0)
 <p align="center">
   <img width="400" height="200" src="http://alexandrsoldatkin.com/c-hanoi-tower/images/towershanoi.jpg">
