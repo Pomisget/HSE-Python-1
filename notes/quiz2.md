@@ -67,6 +67,21 @@ for i in range(n - 2):
 
 print(ans)
 ```
+
+* __G. Количество цифр__
+
+```python
+a = [0] * 9
+
+while True:
+    x = int(input())
+    if x == 0:
+        break
+    a[x - 1] += 1
+    
+print(*a)
+```
+
 * __B. Ханойские башни__ [Solution](https://www.youtube.com/watch?v=rFuQCd4RvI0)
 <p align="center">
   <img width="400" height="200" src="http://alexandrsoldatkin.com/c-hanoi-tower/images/towershanoi.jpg">
