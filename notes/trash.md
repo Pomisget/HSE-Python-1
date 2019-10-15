@@ -1,9 +1,8 @@
-```python
 file = open('input.txt')
 
 votes = dict()
 idx = 0
-c = 0
+total = 0
 
 for row in file.readlines():
     a = row.split()
@@ -15,17 +14,19 @@ for row in file.readlines():
         votes[name] = [idx, 0]
     votes[name] = [votes[name][0], votes[name][1] + vote]
 
-    c += vote
+    total += vote
     idx += 1
 
 a = []
 availible = 450
 
 for name in votes:
-    x = 450 * votes[name][1] / c
+    x = 450 * votes[name][1] / total
+    # name, целая часть, часть от деления, id
     a.append([name, int(x), x - int(x), votes[name][0]])
     availible -= int(x)
 
+# by (-часть от деления, целая часть)
 a.sort(key=lambda x: (-x[2], x[1]))
 
 for i in range(len(a)):
@@ -34,10 +35,8 @@ for i in range(len(a)):
     a[i][1] += 1
     availible -= 1
 
+# by id
 a.sort(key=lambda x: x[3])
 
 for i in range(len(a)):
     print(a[i][0], a[i][1])
-
-
-```
