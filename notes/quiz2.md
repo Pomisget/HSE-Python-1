@@ -81,6 +81,39 @@ while True:
     
 print(*a)
 ```
+* __H. Чемпионат по метанию коровьих лепешек__
+
+```python
+n = int(input())
+a = list(map(int, input().split()))
+
+mx = max(a)
+idx_max = 0
+
+for i in range(n):
+    if a[i] == mx:
+        idx_max = i
+        break
+
+possible = []
+
+for i in range(idx_max + 1, n - 1):
+    if str(a[i])[-1] == '5' and a[i + 1] < a[i]:
+        possible.append(a[i])
+
+if len(possible) == 0:
+    print(0)
+else:
+    vasya = max(possible)
+    a.sort(reverse=True)
+    for i in range(n):
+        if a[i] == vasya:
+            print(i + 1)
+            break
+
+
+```
+
 
 * __B. Ханойские башни__ [Solution](https://www.youtube.com/watch?v=rFuQCd4RvI0)
 <p align="center">
