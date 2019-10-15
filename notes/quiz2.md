@@ -1,7 +1,7 @@
 ### Quiz 2 :thought_balloon:
 
 <p align="center">
-  <img width="460" height="300" src="http://alexandrsoldatkin.com/c-hanoi-tower/images/towershanoi.jpg">
+  <img width="300" height="300" src="http://alexandrsoldatkin.com/c-hanoi-tower/images/towershanoi.jpg">
 </p>
 
 ```python
