@@ -14,26 +14,6 @@
 
 
 
-#### join
-```python
-print("+".join(["a", "b", "c"])) # a+b+c
-```
-
-#### 1d List
-```python
-a = [0 for i in range(9)]
-
-# [0, 0, 0, 0, 0, 0, 0, 0, 0]
-```
-#### 2d List
-```python
-a = [[0 for j in range(3)] for i in range(3)]
-
-# [[0, 0, 0], 
-#  [0, 0, 0], 
-#  [0, 0, 0]]
-```
-
 #### Чтение файла построчно в Python
 
 ```python
