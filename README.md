@@ -1,4 +1,4 @@
-### Python
+### [Python 1](http://wiki.cs.hse.ru/Основы_и_методология_программирования_на_ПМИ_2018/2019_(основной_поток,_1_модуль))
 
 1. - [x] [Intro](https://github.com/doroteo7/HSE-Python-1/blob/master/notes/1.md)
 2. - [x] [Условный оператор](https://github.com/doroteo7/HSE-Python-1/blob/master/notes/2.md)
