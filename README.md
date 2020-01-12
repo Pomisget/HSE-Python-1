@@ -13,7 +13,7 @@
 11. - [ ] [Функциональное программирование](https://github.com/doroteo7/HSE-Python-1/blob/master/notes/11.md)
 12. - [ ] [Класс](https://github.com/doroteo7/HSE-Python-1/blob/master/notes/12.md)
 
-
+ 
 
 
 #### Чтение файла построчно в Python
