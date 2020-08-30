@@ -1,4 +1,4 @@
-### [Python 1](http://wiki.cs.hse.ru/Основы_и_методология_программирования_на_ПМИ_2018/2019_(основной_поток,_1_модуль))
+### [Python](http://wiki.cs.hse.ru/Основы_и_методология_программирования_на_ПМИ_2018/2019_(основной_поток,_1_модуль))
 
 0. - [ ] [PEP 8 - Руководство по стилю для кода Python](https://github.com/doroteo7/HSE-Python-1/blob/master/notes/0.md)
 1. - [ ] [Введение](https://github.com/doroteo7/HSE-Python-1/blob/master/notes/1.md)
