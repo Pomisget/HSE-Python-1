@@ -3,9 +3,9 @@
 * [Download book/lectures](https://disk.yandex.ru/i/BkcKilJkumcPV)
 * [Online lectures](https://www.coursera.org/learn/python-osnovy-programmirovaniya/home/welcome)
 
-0. - [ ] [PEP 8 - Руководство по стилю для кода Python](https://github.com/doroteo7/HSE-Python-1/blob/master/notes/0.md)
-1. - [ ] [Введение](https://github.com/doroteo7/HSE-Python-1/blob/master/notes/1.md)
-2. - [ ] [Условный оператор](https://github.com/doroteo7/HSE-Python-1/blob/master/notes/2.md)
+0. - [x] [PEP 8 - Руководство по стилю для кода Python](https://github.com/doroteo7/HSE-Python-1/blob/master/notes/0.md)
+1. - [x] [Введение](https://github.com/doroteo7/HSE-Python-1/blob/master/notes/1.md)
+2. - [x] [Условный оператор](https://github.com/doroteo7/HSE-Python-1/blob/master/notes/2.md)
 3. - [ ] [Цикл While](https://github.com/doroteo7/HSE-Python-1/blob/master/notes/3.md)
 4. - [ ] [Строки](https://github.com/doroteo7/HSE-Python-1/blob/master/notes/4.md)
 5. - [ ] [Функция](https://github.com/doroteo7/HSE-Python-1/blob/master/notes/5.md)
