@@ -11,14 +11,7 @@
 #### Week 2
 - [x] [Условный оператор](https://github.com/doroteo7/HSE-Python-1/blob/master/notes/2.md)
 - [x] [Цикл While](https://github.com/doroteo7/HSE-Python-1/blob/master/notes/3.md)
-
-##### Tasks
-0. - [x] [Nim Game](https://leetcode.com/problems/nim-game/)
-1. - [ ] [Reverse Integer](https://leetcode.com/problems/reverse-integer/)
-2. - [ ] [Add Binary](https://leetcode.com/problems/add-binary/)
-3. - [ ] [sqrt(x)](https://leetcode.com/problems/sqrtx/)
-4. - [ ] [Multiply strings](https://leetcode.com/problems/multiply-strings/)
-5. - [ ] [Roman to integer](https://leetcode.com/problems/roman-to-integer/)
+- [ ] [Задачи](https://github.com/Loglosss/HSE-Python-1/blob/master/notes/task2.md) 
 
 #### Week 3
 - [ ] [Строки](https://github.com/doroteo7/HSE-Python-1/blob/master/notes/4.md)
