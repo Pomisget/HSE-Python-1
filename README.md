@@ -1,4 +1,4 @@
-### [Python](http://wiki.cs.hse.ru/Основы_и_методология_программирования_на_ПМИ_2018/2019_(основной_поток,_1_модуль))
+### [Python](http://wiki.cs.hse.ru/Основы_и_методология_программирования_на_ПМИ_2020/2021_(основной_поток))
 
 
 * [Download book/lectures](https://disk.yandex.ru/i/BkcKilJkumcPV)
