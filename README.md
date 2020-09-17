@@ -15,8 +15,8 @@
 - [ ] [Задачи](https://github.com/Loglosss/HSE-Python-1/blob/master/notes/task2.md) 
 
 #### Week 3
-- [ ] [Функция и рекурсия](https://github.com/doroteo7/HSE-Python-1/blob/master/notes/5.md)
 - [ ] [Цикл for](https://github.com/doroteo7/HSE-Python-1/blob/master/notes/6.md)
+- [ ] [Функция и рекурсия](https://github.com/doroteo7/HSE-Python-1/blob/master/notes/5.md)
 - [ ] [Задачи](https://github.com/Loglosss/HSE-Python-1/blob/master/notes/task3.md) 
 
 #### Week 4
