@@ -20,8 +20,8 @@
 - [x] [Задачи](https://github.com/Loglosss/HSE-Python-1/blob/master/notes/task3.md) 
 
 #### Week 4
-- [ ] [Списки - List](https://github.com/doroteo7/HSE-Python-1/blob/master/notes/7.md)
-- [ ] [Сортировка](https://github.com/doroteo7/HSE-Python-1/blob/master/notes/8.md)
+- [x] [Списки - List](https://github.com/doroteo7/HSE-Python-1/blob/master/notes/7.md)
+- [x] [Сортировка](https://github.com/doroteo7/HSE-Python-1/blob/master/notes/8.md)
 - [ ] [Задачи](https://github.com/Loglosss/HSE-Python-1/blob/master/notes/task4.md) 
 
 #### Week 5
