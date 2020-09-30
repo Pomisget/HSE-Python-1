@@ -28,6 +28,7 @@
 - [ ] [Разбор КР1](https://github.com/Loglosss/HSE-Python-1/blob/master/notes/quiz_1_2020.md)
 - [ ] [Множество - Set](https://github.com/doroteo7/HSE-Python-1/blob/master/notes/9.md)
 - [ ] [Словарь - Dictionary](https://github.com/doroteo7/HSE-Python-1/blob/master/notes/10.md)
+- [ ] [Задачи](https://github.com/Loglosss/HSE-Python-1/blob/master/notes/task5.md)
 
 #### Week 6
 - [ ] [Функциональное программирование](https://github.com/doroteo7/HSE-Python-1/blob/master/notes/11.md)
