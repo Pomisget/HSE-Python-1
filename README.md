@@ -40,7 +40,7 @@
 
 
 
-#### Чтение файла построчно в Python
+#### Чтение файла в Python
 
 ```python
 
@@ -54,7 +54,8 @@ for row in data:
     print(a)
 
 infile.close()
-
+```
+```python
 # Method 2.
 infile = open('input.txt', 'r', encoding='utf-8')
 
@@ -62,13 +63,17 @@ data = infile.read()
 print(type(data), data)
 
 infile.close()
+```
 
+```python
 # Method 3. 
 import sys
 data = sys.stdin.read()
 # Command + D or Ctrl + D - для завершение чтение данных
 print(type(data), data)
+```
 
+```python
 # Method 4
 import sys
 data = sys.stdin.readlines()  # построчно
