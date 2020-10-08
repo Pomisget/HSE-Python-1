@@ -56,7 +56,7 @@ for row in data:
 infile.close()
 ```
 ```python
-# Method 2.
+# Method 2
 infile = open('input.txt', 'r', encoding='utf-8')
 
 data = infile.read()
@@ -66,7 +66,7 @@ infile.close()
 ```
 
 ```python
-# Method 3. 
+# Method 3
 import sys
 data = sys.stdin.read()
 # Command + D or Ctrl + D - для завершение чтение данных
