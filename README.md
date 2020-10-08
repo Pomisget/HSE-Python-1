@@ -68,16 +68,14 @@ infile.close()
 ```python
 # Method 3
 import sys
-data = sys.stdin.read()
-# Command + D or Ctrl + D - для завершение чтение данных
+data = sys.stdin.read()  # Command + D or Ctrl + D - для завершение чтение данных
 print(type(data), data)
 ```
 
 ```python
 # Method 4
 import sys
-data = sys.stdin.readlines()  # построчно
+data = sys.stdin.readlines()  # построчно. Command + D or Ctrl + D - для завершение чтение данных
 print(type(data))
-# Command + D or Ctrl + D - для завершение чтение данных
 print(data)
 ```
