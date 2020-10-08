@@ -33,6 +33,7 @@
 #### Week 6
 - [x] [Функциональное программирование](https://github.com/doroteo7/HSE-Python-1/blob/master/notes/11.md)
 - [x] [Класс](https://github.com/doroteo7/HSE-Python-1/blob/master/notes/12.md)
+- [x] [Пример](https://github.com/Loglosss/HSE-Python-1/blob/master/notes/main.py)
 
 
 
