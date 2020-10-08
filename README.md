@@ -65,7 +65,7 @@ infile.close()
 # Method 3. 
 import sys
 data = sys.stdin.read()
-# Command + D or Ctrl + D - 
+# Command + D or Ctrl + D - для завершение чтение данных
 print(type(data), data)
 
 # Method 4
