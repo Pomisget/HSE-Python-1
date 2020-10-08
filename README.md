@@ -31,8 +31,8 @@
 - [ ] [Задачи](https://github.com/Loglosss/HSE-Python-1/blob/master/notes/task5.md)
 
 #### Week 6
-- [ ] [Функциональное программирование](https://github.com/doroteo7/HSE-Python-1/blob/master/notes/11.md)
-- [ ] [Класс](https://github.com/doroteo7/HSE-Python-1/blob/master/notes/12.md)
+- [x] [Функциональное программирование](https://github.com/doroteo7/HSE-Python-1/blob/master/notes/11.md)
+- [x] [Класс](https://github.com/doroteo7/HSE-Python-1/blob/master/notes/12.md)
 
 
 
@@ -42,12 +42,36 @@
 #### Чтение файла построчно в Python
 
 ```python
-infile = open('input.txt')
+
+# Method 1. Читать файл построчно
+infile = open('input.txt', 'r', encoding='utf-8')
 
 data = infile.readlines()
-
+print(type(data), data)
 for row in data:
     a = list(row.split())
+    print(a)
 
 infile.close()
+
+# Method 2.
+infile = open('input.txt', 'r', encoding='utf-8')
+
+data = infile.read()
+print(type(data), data)
+
+infile.close()
+
+# Method 3. 
+import sys
+data = sys.stdin.read()
+# Command + D or Ctrl + D - 
+print(type(data), data)
+
+# Method 4
+import sys
+data = sys.stdin.readlines()  # построчно
+print(type(data))
+# Command + D or Ctrl + D - для завершение чтение данных
+print(data)
 ```
