@@ -1,5 +1,5 @@
 ### Tasks
-- [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
-- [x] [Min stack](https://leetcode.com/problems/min-stack/)
-- [x] [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
-
+- [ ] [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)
+- [ ] [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)
+- [ ] [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
+- [ ] [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
