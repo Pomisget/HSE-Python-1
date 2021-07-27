@@ -6,7 +6,7 @@
 
 #### Week 1
 - [x] [PEP 8 - Руководство по стилю для кода Python](https://github.com/doroteo7/HSE-Python-1/blob/master/notes/0.md)
-- [x] [Введение](https://github.com/doroteo7/HSE-Python-1/blob/master/notes/1.md)
+- [x] [Введение](https://github.com/Pomisget/HSE-Python-1/blob/master/notes/1.md)
 - [x] [Условный оператор](https://github.com/doroteo7/HSE-Python-1/blob/master/notes/2.md)
 
 #### Week 2
